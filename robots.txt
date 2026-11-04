@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://javate7.github.io/software-intro/sitemap.xml
